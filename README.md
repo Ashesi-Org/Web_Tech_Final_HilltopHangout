@@ -9,6 +9,7 @@ Hilltop Hangout is a social media Web App for Ashesi University students develop
 - View the profile of others
 - Post a comment on the platform 
 - View a feed of other comments people have made
+
 The system can:
 - Validate input to ensure that users don't leave fields empty when registering, logging in, or making a comment
 - Make real-time updates to the feed when a new post is made
